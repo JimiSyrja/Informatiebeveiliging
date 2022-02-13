@@ -1,23 +1,41 @@
 body{
   margin:100px ;
-  background-color: cyan
+  background-color: cyan ;
 }
 header{
-  height:100px ;
-  width: 1050px ;
-  background-color: blueviolet
+  text-align: center;
+  font-family: Georgia, "Times new Roman", serif;
 
+  height:130px ;
+  width: 1050px ;
+  font-size: 2cm ;
+  background-color: blueviolet ;
 }
 article{
-  height:200px ;
-  width: 900px ;
-  background-color: yellow 
+  height:400px ;
+  width: 700px ;
+  font-size: 150% ;
+  background-color: yellow ;
 }
 nav{
-  height:200px ;
+  height:400px ;
   width: 150px ;
-  background-color: lightgreen
+  text-align: center ;
+  font-size: 175% ;
+  background-color: lightgreen ;
+}
+aside{
+  height: 400px ;
+  width: 200px ;
+  background-color: red ;
 }
 .content{
   display: flex;
+}
+footer{
+  height:120px ;
+  width: 1050px ;
+  background-color:  hotpink ;
+  font-size: 175% ;
+  text-align: center ;
 }
