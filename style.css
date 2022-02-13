@@ -1,0 +1,23 @@
+body{
+  margin:100px ;
+  background-color: cyan
+}
+header{
+  height:100px ;
+  width: 1050px ;
+  background-color: blueviolet
+
+}
+article{
+  height:200px ;
+  width: 900px ;
+  background-color: yellow 
+}
+nav{
+  height:200px ;
+  width: 150px ;
+  background-color: lightgreen
+}
+.content{
+  display: flex;
+}
