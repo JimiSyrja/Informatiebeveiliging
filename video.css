@@ -1,0 +1,23 @@
+body{
+  margin: 500px ;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-jXnkfqcwGdhsQJMps3lb8_38gRecwJ13fw&usqp=CAU") ;
+background-size: cover ;
+background-position: center ; 
+background: linear-gradient(rgba(0,0,0,0),rgb(0, 0, 0)),url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-jXnkfqcwGdhsQJMps3lb8_38gRecwJ13fw&usqp=CAU");
+
+  
+  text-align: center;
+  color: #fff;
+  font-family: Georgia, "Times new Roman", serif;
+  font-size: 1cm;
+  position: center;
+  
+  
+  }
+
+iframe{
+  position: center;
+}
+article{
+  height: 200px;
+  width: 200px ;

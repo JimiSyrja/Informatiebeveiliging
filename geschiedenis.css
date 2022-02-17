@@ -1,0 +1,18 @@
+body{
+  margin:900px ;
+  background-color: cyan ;
+  background-position: fixed ;
+  background-image: url("https://miro.medium.com/max/1100/0*sfo4iTYpt5wTh_hp.") ;
+background-size: cover ;
+background: linear-gradient(rgba(0,0,0,0),rgb(26, 13, 206)),url("https://miro.medium.com/max/1100/0*sfo4iTYpt5wTh_hp.");
+
+  
+  text-align: center;
+  color: #fff;
+  font-family: Georgia, "Times new Roman", serif;
+  font-size: 1cm;
+  }
+
+table {
+  border: 1px solid;
+}

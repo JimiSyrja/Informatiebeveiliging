@@ -1,16 +1,18 @@
 body{
-  margin:175px ;
-  background-color: cyan ;
+  margin:100px ;
+ background-color: #cccccc;
 background-image: url("https://videohive.img.customer.envatousercontent.com/files/244127498/BinaryCicuit_00110Grn_p.jpg?auto=compress%2Cformat&fit=crop&crop=top&max-h=8000&max-w=590&s=b2cf0e928592d69906966dcabb2fe8a5");
 background-size: cover ;
 background-position: center ; 
 background: linear-gradient(rgba(0,0,0,0),#000),url("https://videohive.img.customer.envatousercontent.com/files/244127498/BinaryCicuit_00110Grn_p.jpg?auto=compress%2Cformat&fit=crop&crop=top&max-h=8000&max-w=590&s=b2cf0e928592d69906966dcabb2fe8a5");
+background-origin: 300px ; 
 }
 
 header{
   height:130px ;
   width: 1015px ;
-  font-size: 2cm ;
+  margin: auto ;
+  font-size: 90% ;
  }
 
 .text{
@@ -20,24 +22,14 @@ header{
   font-size: 1cm;
 }
 article{
-  height:400px ;
-  width: 700px ;
-  font-size: 70% ;
-  background-color: yellow ;
-  color: #000 ;
+  height:5px ;
+  width: 750px ;
+  margin: auto ;
+  margin-top: 10px ;
+  font-size: 40% ;
+  color: white;
+  background-color: #068506;
 }
-sidenav{
-  height: 100%; 
-  width: 200px; 
-  position: left;
-  z-index: 1;
-  top: 0; 
-  left: 3;
-  background-color: #111; 
-  overflow-x: hidden; 
-  padding-top: 20px; 
-}
-
 .sidenav a {
   padding: 6px 8px 6px 16px;
   text-decoration: none;
@@ -49,11 +41,9 @@ sidenav{
   color: #f1f1f1;
 }
 
-
 aside{
   height: 400px ;
   width: 200px ;
-  background-color: red ;
   text-align: right ;
   background-position: right ;
 }
@@ -62,9 +52,15 @@ aside{
   display: flex;
 }
 footer{
-  height:120px ;
-  width: 1050px ;
-  background-color: blue;
-  font-size: 175% ;
+  height:5px ;
+  width: 750px ;
+  margin: auto ;
+  font-size: 75% ;
   text-align: center ;
+  table-layout: fixed ;
+  background-color: #068506;
+ 
+  
 }
+
+

@@ -1,0 +1,43 @@
+body{
+  margin:100px ;
+  background-color: cyan ;
+  background-image: url("https://c.tenor.com/2JDqYLPALTQAAAAC/cyber-hack.gif") ;
+background-size: cover ;
+background-position: center ; 
+background: linear-gradient(rgba(0,0,0,0),rgb(26, 13, 206)),url("https://c.tenor.com/2JDqYLPALTQAAAAC/cyber-hack.gif");
+
+  
+  text-align: center;
+  color: #fff;
+  font-family: Georgia, "Times new Roman", serif;
+  font-size: 1cm;
+  }
+
+table {
+  border: 1px solid;
+}
+article{
+  height: 400px;
+  width: 400px;
+  background-color:red ;
+  position: center ;
+}
+aside{
+  position: center;
+  height: 400px;
+  width: 400px;
+  background-color:yellow ;
+}
+div{
+  display: flex;
+}
+
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #f7f5f5;
+  display: block;
+}
+.sidenav a:hover {
+  color: #f1f1f1;
