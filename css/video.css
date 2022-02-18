@@ -19,7 +19,7 @@ body{
   font-size: 25px;
   color: #f7f5f5;
   display: block;
-  text-align: left;
+  margin-left: -900px;
 }
 
 .sidenav a:hover {
