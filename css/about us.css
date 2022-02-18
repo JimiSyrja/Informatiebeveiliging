@@ -47,7 +47,9 @@ div{
   color: #f1f1f1;
 }
 
-Header{
-  Height: 130px;
-  Font-size: 200%;
-}
+header{
+   height:130px;
+  width: 1015px;
+  margin: auto;
+  font-size: 90%;
+ }

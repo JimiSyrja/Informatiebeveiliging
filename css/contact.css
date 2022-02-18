@@ -18,6 +18,8 @@ body{
   color: #f7f5f5;
   display: block;
   text-align: left;
+  margin-left: 200px;
+  margin-bottom: 100px;
 }
 .sidenav a:hover {
   color: #f1f1f1;
@@ -30,15 +32,18 @@ aside{
   background-position: right;
 }
 header{
-  font-size: 500%;
-  position: center;
-}
+   height:130px;
+  width: 1015px;
+  margin: auto;
+  font-size: 90%;
+ }
+
 article{
   text-align: center;
   width: 100%;
   margin-top: -250px;
   margin-left: 240px;
-}
+  }
 content{
   display:flex;
-}
+  }
