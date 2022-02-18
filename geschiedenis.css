@@ -1,10 +1,10 @@
 body{
-  margin:900px ;
+  margin:100px ;
   background-color: cyan ;
-  background-position: fixed ;
-  background-image: url("https://miro.medium.com/max/1100/0*sfo4iTYpt5wTh_hp.") ;
-background-size: cover ;
-background: linear-gradient(rgba(0,0,0,0),rgb(26, 13, 206)),url("https://miro.medium.com/max/1100/0*sfo4iTYpt5wTh_hp.");
+  background-position: right ;
+  background-image: url("https://i.ytimg.com/vi/R9o-586MckU/maxresdefault.jpg");
+ background-size: cover ;
+ background: linear-gradient(rgba(0,0,0,0),rgb(26, 13, 206)),url("https://i.ytimg.com/vi/R9o-586MckU/maxresdefault.jpg");
 
   
   text-align: center;
@@ -15,4 +15,42 @@ background: linear-gradient(rgba(0,0,0,0),rgb(26, 13, 206)),url("https://miro.me
 
 table {
   border: 1px solid;
+}
+
+.sidenav a{
+  padding: 10px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #f7f5f5;
+  display: block;
+  text-align: left;
+  position: relative;
+  bottom: 50px;
+  left: 20px;
+  width: 300px;
+}
+
+aside{
+  height: 400px ;
+  width: 200px ;
+  text-align: right ;
+  background-position: right ;
+}
+
+article{
+  margin: auto ;
+  margin-top: 70px ;
+  font-size: 30% ;
+  color: white;
+  position: relative;
+  text-align: center;
+}
+div{
+  display: flex;
+}
+header{
+  height:130px ;
+  width: 1015px ;
+  font-size: 90% ;
+  margin: auto ;
 }

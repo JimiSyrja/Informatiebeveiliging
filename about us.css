@@ -17,17 +17,19 @@ table {
   border: 1px solid;
 }
 article{
-  height: 400px;
+  height: 300px;
   width: 400px;
-  background-color:red ;
+  background-color:rgb(0, 110, 255) ;
+  font-size: 75%;
   position: center ;
 }
 aside{
   position: center;
-  height: 400px;
+  height: 300px;
   width: 400px;
-  background-color:yellow ;
-}
+  font-size: 75%;
+  background-color:rgb(7, 33, 182) ;
+  }
 div{
   display: flex;
 }
@@ -41,3 +43,8 @@ div{
 }
 .sidenav a:hover {
   color: #f1f1f1;
+  
+Header{
+  Height: 130px;
+  Font-size: 200%;
+}
