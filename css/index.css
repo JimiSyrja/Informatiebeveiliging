@@ -13,6 +13,8 @@ header{
   width: 1015px;
   margin: auto;
   font-size: 90%;
+  text-shadow:2px 2px 2px  rgb(0, 255, 42);
+  font-family: Georgia, "Times new Roman", serif;
  }
 
 .text{
