@@ -1,17 +1,17 @@
 body{
-  margin:100px ;
-  background-color: cyan ;
-  background-position: right ;
+  margin:100px;
+  background-color: cyan;
+  background-position: right;
   background-image: url("https://i.ytimg.com/vi/R9o-586MckU/maxresdefault.jpg");
- background-size: cover ;
- background: linear-gradient(rgba(0,0,0,0),rgb(26, 13, 206)),url("https://i.ytimg.com/vi/R9o-586MckU/maxresdefault.jpg");
+  background-size: cover;
+  background: linear-gradient(rgba(0,0,0,0),rgb(26, 13, 206)),url("https://i.ytimg.com/vi/R9o-586MckU/maxresdefault.jpg");
 
-  
+
   text-align: center;
   color: #fff;
   font-family: Georgia, "Times new Roman", serif;
   font-size: 1cm;
-  }
+}
 
 table {
   border: 1px solid;
@@ -31,16 +31,16 @@ table {
 }
 
 aside{
-  height: 400px ;
-  width: 200px ;
-  text-align: right ;
-  background-position: right ;
+  height: 400px;
+  width: 200px;
+  text-align: right;
+  background-position: right;
 }
 
 article{
-  margin: auto ;
-  margin-top: 70px ;
-  font-size: 30% ;
+  margin: auto;
+  margin-top: 70px;
+  font-size: 30%;
   color: white;
   position: relative;
   text-align: center;
@@ -49,8 +49,8 @@ div{
   display: flex;
 }
 header{
-  height:130px ;
-  width: 1015px ;
-  font-size: 90% ;
-  margin: auto ;
+  height:130px;
+  width: 1015px;
+  font-size: 90%;
+  margin: auto;
 }
